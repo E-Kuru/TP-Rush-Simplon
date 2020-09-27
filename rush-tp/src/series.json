@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "nom" : "Serie 1",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 2,
+        "nom" : "Serie 2",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 3,
+        "nom" : "Serie 3",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 4,
+        "nom" : "Serie 4",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 5,
+        "nom" : "Serie 5",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 6,
+        "nom" : "Serie 6",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 7,
+        "nom" : "Serie 7",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 8,
+        "nom" : "Serie 8",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 9,
+        "nom" : "Serie 9",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 10,
+        "nom" : "Serie  10",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 11,
+        "nom" : "Serie 11",
+        "img" : "./assets/social/matrix.png"
+    },
+    {
+        "id" : 12,
+        "nom" : "Serie 12",
+        "img" : "./assets/social/matrix.png"
+    }
+]

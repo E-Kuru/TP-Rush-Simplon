@@ -1,9 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
 import { Route,Switch, BrowserRouter as Router } from 'react-router-dom';
 import Home from './component/Home'
 import Movies from './component/movies'
+import Series from './component/series';
 
 
 function notFound() {
@@ -17,7 +16,7 @@ function App() {
     <Switch>
         <Route exact path='/' component={Home} />
         <Route exact path='/movies' component = {Movies} />
-        {/* <Route exact ='Users' component ={UsersRegister} /> */}
+        <Route exact path='/series' component = {Series} />
         <Route component ={notFound} />
     </Switch>
 </Router>
