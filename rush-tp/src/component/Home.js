@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Footer from './footer'
 
 class Home extends React.Component{
     constructor(props){
@@ -21,9 +22,7 @@ class Home extends React.Component{
                     <h3>"Etre visionnaire c'est regarder le monde au delà du temps. Mais on ne voit pas plus loin, que les choix que l'on ne peut pas comprendre."<br/> The Matrix, L'oracle</h3>
                     </div>
                 </div>
-
-                <footer>
-                </footer>
+                <Footer/>
         </div>
         )
     }
