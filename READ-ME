@@ -1,3 +1,6 @@
+Ce projet avait pour but de faire un petit site de streaming en React en moins d'une semaine en y injectant des éléments provenant d'une source externe.
+
+J'ai donc fait le plan des tâches à faire dans l'ordre selon moi :
 1 - Installer React dans un nouveau Projet.
 2 - Créer les Components.
 3 - Faire la route entre les Components.
