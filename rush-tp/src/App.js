@@ -5,20 +5,17 @@ import Movies from './component/movies';
 import Series from './component/series';
 import Error from './component/error'
 
-function notFound() {
-  return <h1>404 Page not found</h1>
-
-}
-
 function App() {
   return (
     <Router>
+      {/* Header */}
       <Switch>
         <Route exact path='/' component={Home} />
         <Route exact path='/movies' component={Movies} />
         <Route exact path='/series' component={Series} />
         <Route component={Error} />
       </Switch>
+      {/* Footer */}
     </Router>
 );
 }
